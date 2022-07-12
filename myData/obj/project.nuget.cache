@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2ftd9og5U5ohuvEjA0BH+Ps3oHJ2418N3ZSSsezvatovBme7LEOHJqYkF/HPkBA5FOXgR8iusT18mzXE/dPxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AgileThought\\source\\repos\\myDemo\\myData\\myData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AgileThought\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFtI3sYxZW9MKLQ6rhE/hTbyDnAADCUYavUHdD3hMybyQXJav5w33SgLpyuK4fwRkuyQylpN8Kw3ZUpvlOFKAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AgileThought\\source\\repos\\myDemo\\myApi\\myApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AgileThought\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\AgileThought\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\AgileThought\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

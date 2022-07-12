@@ -1,0 +1,10 @@
+C:\Users\AgileThought\source\repos\myDemo\myData\bin\Debug\netcoreapp3.1\myData.deps.json
+C:\Users\AgileThought\source\repos\myDemo\myData\bin\Debug\netcoreapp3.1\myData.dll
+C:\Users\AgileThought\source\repos\myDemo\myData\bin\Debug\netcoreapp3.1\myData.pdb
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.csproj.AssemblyReference.cache
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.AssemblyInfoInputs.cache
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.AssemblyInfo.cs
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.csproj.CoreCompileInputs.cache
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.dll
+C:\Users\AgileThought\source\repos\myDemo\myData\obj\Debug\netcoreapp3.1\myData.pdb
